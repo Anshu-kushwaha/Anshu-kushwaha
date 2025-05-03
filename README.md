@@ -1,5 +1,5 @@
 # 💫 Anshu Kushwaha
-🔭 I’m currently working on Java Full Stack Developement<br>🌱 I’m currently learning Data Structures and Algorithms using Java.<br>💬 Contact :- anshukushwaha112@gmail.com<br>
+🔭 I’m currently working on Java Full Stack Development.<br>🌱 I’m currently learning Data Structures and Algorithms using Java.<br>💬 Contact :- anshukushwaha112@gmail.com<br>
 
 
 ## 🌐 Socials:
